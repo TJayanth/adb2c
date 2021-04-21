@@ -1,2 +1,2 @@
-# adb2c
+# ADB2C Custom policies
 ADB2C policies
